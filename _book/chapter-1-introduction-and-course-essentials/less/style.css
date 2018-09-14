@@ -1,0 +1,26 @@
+body {
+  background-color: #894903;
+  font-family: Arial, sans-serif;
+  color: red;
+}
+.box {
+  border: 1px solid #4f3240;
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+}
+.container {
+  border: 1px dashed #000;
+}
+.container h1 {
+  color: yellow;
+}
+.message-shared,
+.message,
+.success {
+  border: 1px solid #2f3640;
+  padding: 10px;
+  color: #6286b9;
+}
+.success {
+  border-color: white;
+}

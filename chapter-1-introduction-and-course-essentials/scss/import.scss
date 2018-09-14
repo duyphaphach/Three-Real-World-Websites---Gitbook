@@ -1,0 +1,50 @@
+// Variables
+$bg-color: #309458;
+$font-family: Georgia;
+$text-color: white;
+
+body{
+  background-color: $bg-color;
+  font-family: $font-family;
+  color: $text-color;
+}
+
+
+// Mixins
+
+@mixin border-radius($radius, $pt, $pr, $pb, $pl){
+  border-radius: $radius;
+  padding: $pt $pr $pb $pl;
+}
+
+.box {
+  border: 1px solid #4f3240;
+  @include border-radius(10px, 20px, 20px, 20px, 20px);
+}
+
+// Nesting
+
+.container {
+  border: 1px dashed #000;
+  h1 {
+    color: yellow;
+  }
+}
+
+
+// Extends
+
+.message-shared {
+  border: 1px solid #2f3640;
+  padding: 10px;
+  color: #6286b9;
+}
+
+.message {
+  @extend .message-shared;
+}
+
+.success {
+  @extend .message-shared;
+  border-color: white;
+}
