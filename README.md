@@ -262,7 +262,6 @@ Finish lesson 28: Prepare Files
 Finish lesson 29: Linking Files
 
 - Link image and library with index.html
-
 - Apply some custom CSS
 
 ### Thoughts
