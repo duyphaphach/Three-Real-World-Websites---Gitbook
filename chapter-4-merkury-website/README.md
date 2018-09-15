@@ -16,9 +16,9 @@ And some small reminders
 
 An introductory website of the merkury dashboard which displays:
 
--   The important features
--   The workflow
--   The powerful design of the Merkury dashboard
+- The important features
+- The workflow
+- The powerful design of the Merkury dashboard
 
 **What are we learning**
 
@@ -30,52 +30,51 @@ Deal with two different plugins: `scroll reveal` and `jQueryUI`
 
 **The Navbar**
 
--   Apply transition effect
--   Apply Scrollspy
--   Collapse Navbar when item clicked by jQuery
+- Apply transition effect
+- Apply Scrollspy
+- Collapse Navbar when item clicked by jQuery
 
 **The Header**
 
--   Chart animation in the background
--   A title and a subtitle
--   A `Get Started` button with a nice hover effect
--   An image display between header and features section
+- Chart animation in the background
+- A title and a subtitle
+- A `Get Started` button with a nice hover effect
+- An image display between header and features section
 
 **Features Section**
 
 First Part
 
--   Images represent features of the dashboard with cool over effect
--   A short description text with `See more` button below
+- Images represent features of the dashboard with cool over effect
+- A short description text with `See more` button below
 
 Second Part
 
--   On the left, we have title and some text
--   On the right side, we have image with the fade-in animation
+- On the left, we have title and some text
+- On the right side, we have image with the fade-in animation
 
 **Drag and Drop Section**
 
--   On the right, a title with some text and two navigation button
-
--   On the left, we have customize drop down button, allow drag and drop item
+- On the right, a title with some text and two navigation button
+- On the left, we have customize drop down button, allow drag and drop item
 
 **Special Section**
 
--   Title and some text
--   Running line effect when hover
--   Infinite floating effect on the image
+- Title and some text
+- Running line effect when hover
+- Infinite floating effect on the image
 
 **Pricing Section**
 
--   Three Bootstrap card with fade-up-in effect with different delay
+- Three Bootstrap card with fade-up-in effect with different delay
 
 **Join Section**
 
--   A text with `Join now!` and separate line
+- A text with `Join now!` and separate line
 
 **Footer Section**
 
--   All right reserved and social buttons
+- All right reserved and social buttons
 
 Some visual images
 
@@ -137,17 +136,16 @@ Font-awesome
 
 **Bootstrap**
 
--   Download `bootstrap.min.css` and `bootstrap.min.js` from [Bootstrap Download Link](https://getbootstrap.com/docs/4.1/getting-started/download/)
-
--   Save them into `./assets/style/css/` and `./assets/style/js/`
+- Download `bootstrap.min.css` and `bootstrap.min.js` from [Bootstrap Download Link](https://getbootstrap.com/docs/4.1/getting-started/download/)
+- Save them into `./assets/style/css/` and `./assets/style/js/`
 
 **jQuery**
 
--   Go to [jQuery Download](https://code.jquery.com/jquery-3.3.1.min.js) and save it to `./assets/style/js/`
+- Go to [jQuery Download](https://code.jquery.com/jquery-3.3.1.min.js) and save it to `./assets/style/js/`
 
 **Popper.js**
 
--   Go to [Popper Download](https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js) and save it to `./assets/style/js/`
+- Go to [Popper Download](https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js) and save it to `./assets/style/js/`
 
 **Bookmarks**
 
@@ -170,10 +168,10 @@ The index html should appear like below
 
 **Custom CSS**
 
--   Define `fontface`s
--   Assign colors and fonts to variables
--   Copy General Reset CSS code from Open Charity project into `style.less`
--   Customize some tag with background-color, margin and padding
+- Define `fontface`s
+- Assign colors and fonts to variables
+- Copy General Reset CSS code from Open Charity project into `style.less`
+- Customize some tag with background-color, margin and padding
 
 **Bookmarks**
 
@@ -189,14 +187,14 @@ Implement styles for Navigation Bar
 
 **Implementation**
 
--   Display favicon
--   Display Merkury logo
--   Implement navbar, navbar links and navbar items styles
-    -   Add padding
-    -   Add hover effect
-    -   Add transition
-    -   Change font-family
-    -   Change background color
+- Display favicon
+- Display Merkury logo
+- Implement navbar, navbar links and navbar items styles
+  - Add padding
+  - Add hover effect
+  - Add transition
+  - Change font-family
+  - Change background color
 
 **Result**
 
@@ -218,17 +216,17 @@ Add some enhancements to make our navbar more interactive
 
 **Effect implemented**
 
--   Close Responsive menu when a link is clicked
--   Activate scrollspy to add active class to navbar items on scroll
--   On scroll down if the offset is higher than 50px the navbar shrink and change color
+- Close Responsive menu when a link is clicked
+- Activate scrollspy to add active class to navbar items on scroll
+- On scroll down if the offset is higher than 50px the navbar shrink and change color
 
 **Result**
 
--   Navbar Before shrinking
+- Navbar Before shrinking
 
     ![before](./before-scroll.PNG)
 
--   Navbar After shrinking
+- Navbar After shrinking
 
     ![after](./after-scroll.PNG)
 
@@ -240,10 +238,10 @@ Remind of media rule
 
 Media queries can be used to check many things, such as:
 
--   width and height of the viewport
--   width and height of the device
--   orientation (is the tablet/phone in landscape or portrait mode?)
--   resolution
+- width and height of the viewport
+- width and height of the device
+- orientation (is the tablet/phone in landscape or portrait mode?)
+- resolution
 
 Details about syntax and usage are in Bookmarks
 
@@ -263,10 +261,10 @@ Link to [GitHub Project](https://github.com/duyphaphach/Merkury-Website)
 
 **Components implemented**
 
--   A title, a sologan and `Get started` button below
--   Dashboard image with glowing sides extracted from PSD
--   Grid background with chart on top
--   Chart background with left-to-right linear moving effect
+- A title, a sologan and `Get started` button below
+- Dashboard image with glowing sides extracted from PSD
+- Grid background with chart on top
+- Chart background with left-to-right linear moving effect
 
 **Result**
 
@@ -274,7 +272,7 @@ Link to [GitHub Project](https://github.com/duyphaphach/Merkury-Website)
 
 **Note**
 
--   Remind of CSS `@keyframe`, checkout link in the Bookmarks
+- Remind of CSS `@keyframe`, checkout link in the Bookmarks
 
 **Bookmarks:**
 
@@ -292,15 +290,15 @@ Implement UI service section
 
 **Components implemented**
 
--   Three columns represent three service with logo, title and detail text
--   A `See More` button with hover effect
--   Light gray divider between each image
+- Three columns represent three service with logo, title and detail text
+- A `See More` button with hover effect
+- Light gray divider between each image
 
 **Styling**
 
--   Customize font weight, font size and font family on titles and texts
--   Add hover effect on `See More` button
--   Add hover effect on logo images
+- Customize font weight, font size and font family on titles and texts
+- Add hover effect on `See More` button
+- Add hover effect on logo images
 
 **Result**
 
@@ -308,7 +306,7 @@ Implement UI service section
 
 **Note**
 
--   Psuedo element `::after`
+- Psuedo element `::after`
 
 **What is it?**
 
@@ -334,14 +332,13 @@ Implement UI for Features section
 
 **Components implemented**
 
--   Two Column, one take care of the text and one contains the image
-
--   The text includes: A title, a paragraph and two checkpoints.
+- Two Column, one take care of the text and one contains the image
+- The text includes: A title, a paragraph and two checkpoints.
 
 **Styling**
 
--   Customize font weight, font size and font family on titles and texts
--   Add padding and margin so everything look balanced
+- Customize font weight, font size and font family on titles and texts
+- Add padding and margin so everything look balanced
 
 **Result**
 
@@ -367,9 +364,8 @@ Implement skeleton for Drag and Drop section
 
 **Components implemented**
 
--   Three Column, one take care of the text and one contains card represent In-progress tasks, one contains card represent Completed tasks
-
--   The text includes: A title, a paragraph and two checkpoints.
+- Three Column, one take care of the text and one contains card represent In-progress tasks, one contains card represent Completed tasks
+- The text includes: A title, a paragraph and two checkpoints.
 
 **Result**
 
@@ -399,21 +395,16 @@ Copy and paste `jquery-ui.min.js` into `./assets/style/js`
 
 **Styling**
 
--   Add Grid background to `#drag-drop` section
-
--   Add Chart background to `.container` and apply animation on using `@keyframe`
-
--   Add padding and margin to cards to to make them look nicer
-
--   Turn `dropdown` button to ellipsis
-
--   Turn mouse to crossarrow when hover on draggable item
+- Add Grid background to `#drag-drop` section
+- Add Chart background to `.container` and apply animation on using `@keyframe`
+- Add padding and margin to cards to to make them look nicer
+- Turn `dropdown` button to ellipsis
+- Turn mouse to crossarrow when hover on draggable item
 
 **Effect**
 
--   Efface the border and `Drop here` text from the `#droppable` item  when a card is dropped onto using jQueryUI
-
--   Restrict dragging to horizontally.
+- Efface the border and `Drop here` text from the `#droppable` item  when a card is dropped onto using jQueryUI
+- Restrict dragging to horizontally.
 
 **Result**
 
@@ -439,33 +430,26 @@ Implement UI for Template section
 
 **Idea**
 
--   A header at the top, horizontally centered
-
--   Some description below
-
--   Two animated line running until reach the dashboard at the middle
-
--   Two paragraph float left and right from where the animation start
-
--   The dashboard image will fade up at the beginning then float infinitely
-
--   All animation start when the section got hovered on
+- A header at the top, horizontally centered
+- Some description below
+- Two animated line running until reach the dashboard at the middle
+- Two paragraph float left and right from where the animation start
+- The dashboard image will fade up at the beginning then float infinitely
+- All animation start when the section got hovered on
 
 **Components implemented**
 
--   First row contain the one Header, one sub-text
-
--   Second row contains three Columns, one left-side, one right-side, one middle
-
--   Left-side and right-side col contain a title, a paragraph, the middle one contain an image as background
+- First row contain the one Header, one sub-text
+- Second row contains three Columns, one left-side, one right-side, one middle
+- Left-side and right-side col contain a title, a paragraph, the middle one contain an image as background
 
 **Styling**
 
--   Customize font and color of header and text
+- Customize font and color of header and text
 
--   Add animation on side columns using `::before` and `@keyframes`: a blue circle running toward the center image
+- Add animation on side columns using `::before` and `@keyframes`: a blue circle running toward the center image
 
--   Apply floating effect on the center image
+- Apply floating effect on the center image
 
 **Result**
 
@@ -473,7 +457,7 @@ Implement UI for Template section
 
 **Note**
 
--   Remind of CSS `@keyframe`, checkout link in the Bookmarks
+- Remind of CSS `@keyframe`, checkout link in the Bookmarks
 
 **Bookmarks:**
 
@@ -493,13 +477,13 @@ Remind of `box-shadow` CSS property
 
 **Components implemented**
 
--   Three Column, representing three pricing model: BRONZE, SILVER and GOLD
+- Three Column, representing three pricing model: BRONZE, SILVER and GOLD
 
--   Column contain title, price, benefits (blue-check circle) and fallbacks (x-circle) of each model
+- Column contain title, price, benefits (blue-check circle) and fallbacks (x-circle) of each model
 
 **Styling**
 
--   Customize font and color of header and text
+- Customize font and color of header and text
 
 **Result**
 
@@ -507,19 +491,13 @@ Remind of `box-shadow` CSS property
 
 **Note**
 
--   Box shadow CSS property params explain:
-
-    -   **The horizontal offset** (required) of the shadow, positive means the shadow will be on the right of the box, a negative offset will put the shadow on the left of the box.
-
-    -   **The vertical offset** (required) of the shadow, a negative one means the box-shadow will be above the box, a positive one means the shadow will be below the box.
-
-    -   **The blur radius** (required), if set to 0 the shadow will be sharp, the higher the number, the more blurred it will be, and the further out the shadow will extend. For instance a shadow with 5px of horizontal offset that also has a 5px blur radius will be 10px of total shadow.
-
-    -   The spread radius (optional), positive values increase the size of the shadow, negative values decrease the size. Default is 0 (the shadow is same size as blur).
-
-    -   Color (required) - takes any color value, like hex, named, rgba or hsla. If the color value is omitted, box shadows are drawn in the foreground color (text color). But be aware, older WebKit browsers (pre Chrome 20 and Safari 6) ignore the rule when color is omitted.
-
--   Using a semi-transparent color like rgba(0, 0, 0, 0.4) is most common, and a nice effect
+- Box shadow CSS property params explain:
+  - **The horizontal offset** (required) of the shadow, positive means the shadow will be on the right of the box, a negative offset will put the shadow on the left of the box.
+  - **The vertical offset** (required) of the shadow, a negative one means the box-shadow will be above the box, a positive one means the shadow will be below the box.
+  - **The blur radius** (required), if set to 0 the shadow will be sharp, the higher the number, the more blurred it will be, and the further out the shadow will extend. For instance a shadow with 5px of horizontal offset that also has a 5px blur radius will be 10px of total shadow.
+  - The spread radius (optional), positive values increase the size of the shadow, negative values decrease the size. Default is 0 (the shadow is same size as blur).
+  - Color (required) - takes any color value, like hex, named, rgba or hsla. If the color value is omitted, box shadows are drawn in the foreground color (text color). But be aware, older WebKit browsers (pre Chrome 20 and Safari 6) ignore the rule when color is omitted.
+- Using a semi-transparent color like rgba(0, 0, 0, 0.4) is most common, and a nice effect
 
 Find out more about `box-shadow` in the Bookmarks
 
@@ -541,14 +519,13 @@ Remind of `:before`, `:after` and `display: flex`
 
 **Components implemented**
 
--   Join Section: A presentation text with `Join now!` button below
-
--   Footer Section: Copyright text float left, `Pricing`, `Blog`, `Contact` and social links float right
+- Join Section: A presentation text with `Join now!` button below
+- Footer Section: Copyright text float left, `Pricing`, `Blog`, `Contact` and social links float right
 
 **Styling**
 
--   Customize font and color of text, icon, style `Join now!` button
--   Apply `::before` and `::after` to `Join now!` button
+- Customize font and color of text, icon, style `Join now!` button
+- Apply `::before` and `::after` to `Join now!` button
 
 **Result**
 
@@ -558,8 +535,8 @@ Remind of `:before`, `:after` and `display: flex`
 
 **Remind of psuedo classes**
 
--   Psuedo element `::after`
--   Psuedo element `::before`
+- Psuedo element `::after`
+- Psuedo element `::before`
 
 **What is it?**
 
@@ -618,13 +595,9 @@ It was designed to be robust and flexible, but hopefully you’ll be surprised b
 Steps:
 
 1.  Go to <https://github.com/scrollreveal/scrollreveal> to download the library
-
 2.  Paste the srollreveal.min.js into our js folder
-
 3.  Initialize effect on an element by using this syntax:
-
     ![syntax](./syntax.PNG)
-
 4.  Checkout all options of the library through the link in Bookmarks section
 
 **Note**
@@ -641,7 +614,7 @@ Link to [GitHub Project](https://github.com/duyphaphach/Merkury-Website)
 
 **Overview:**
 
--   See what can we improve
+- See what can we improve
 
 **Details:**
 
@@ -691,35 +664,26 @@ Link to [GitHub Project](https://github.com/duyphaphach/Merkury-Website)
 
 **Overview:**
 
--   Revise what we have learnt so far
+- Revise what we have learnt so far
 
 **Details:**
 
 **Learned**
 
--   How to export images, getting colors from PSD files
-
--   Prepare project files and folders using Trello to-do list
-
--   Setting variables and custom stylesheet for our website
-
--   How to nest CSS code in less for better understanding and readability
-
--   How to use Bootstrap 4 and its components
-
--   Create animations using CSS, jQuery or normal JS
-
--   Dealt with two different plugins jQueryUI and ScrollReveal and know how to customize them
-
--   Write clean code with comments
-
--   Dealt with website responsiveness
-
--   Increase website performance by compressing images, running markup test and speed test to know what to improve
+- How to export images, getting colors from PSD files
+- Prepare project files and folders using Trello to-do list
+- Setting variables and custom stylesheet for our website
+- How to nest CSS code in less for better understanding and readability
+- How to use Bootstrap 4 and its components
+- Create animations using CSS, jQuery or normal JS
+- Dealt with two different plugins jQueryUI and ScrollReveal and know how to customize them
+- Write clean code with comments
+- Dealt with website responsiveness
+- Increase website performance by compressing images, running markup test and speed test to know what to improve
 
 **Fallbacks**
 
--   Still need a lot more practices on CSS, CSS animations, jQuery, jQueryUI cuz what the course brought are just the tip of the iceberg.
+- Still need a lot more practices on CSS, CSS animations, jQuery, jQueryUI cuz what the course brought are just the tip of the iceberg.
 
 **Bookmarks:**
 
@@ -729,16 +693,14 @@ Link to [GitHub Project](https://github.com/duyphaphach/Merkury-Website)
 
 **Overview:**
 
--   Share some important tips and advices
+- Share some important tips and advices
 
 **Details:**
 
 The best three directions for you as a front-end developer/designer\\
 
 1.  Start learning about CMSs like WordPress or Drupal...
-
 2.  Start learning a backend language like PHP with Laravel framework or Python with Django framework or so on.
-
 3.  Continue improving your JavaScript skills by learning a single page app framework like AngularJS, or ReactJS or VueJS
 
 You don't need to know everything to be productive, just be confident

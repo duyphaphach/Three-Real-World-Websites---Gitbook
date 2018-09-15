@@ -108,19 +108,12 @@ Adobe Photoshop Essentials
 
 **Details:**
 - Image Exporting program that help to convert PSD to HTML and CSS: Figma, Gravit, Photoshop, ...
-
 - Explain some common used tools of Photoshop with examples
-
     - The left sidebar
-
       - **Select tool/Move tool(V)**: Select elements and export it
-
       - **Marquee tool(M)**: Makes rectangular, elliptical, single row and single column selections
-
       - **Crop tool(C)**: Trim, straighten, and change the perspective of images
-
       - **Eyedropper tool(I)**: Inspect color
-
       - **Horizontal Type tool(T)**: Create text, edit or delete it, get font-size, font-family
 
       - **Hand tool(H)**: Move image

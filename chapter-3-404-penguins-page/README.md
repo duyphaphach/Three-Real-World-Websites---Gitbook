@@ -13,16 +13,16 @@ Prototype
 
 **Target**
 
--   Create snowfall animation
--   Make image stick to the page bottom no matter screen size
+- Create snowfall animation
+- Make image stick to the page bottom no matter screen size
 
 **Components**
 
--   404 logo
--   Error message
--   `Go back` button
--   Sticky background image
--   Snowfall animation
+- 404 logo
+- Error message
+- `Go back` button
+- Sticky background image
+- Snowfall animation
 
 **Bookmarks**
 
@@ -36,8 +36,8 @@ Bootstrap the project
 
 **What we gonna use**
 
--   `bootstrap.min.css`
--   CSS keyframe
+- `bootstrap.min.css`
+- CSS keyframe
 
 **Building folder structure**
 
@@ -47,19 +47,14 @@ The folder structure is pretty similar to `OpenCharity` project
 
 **Bootstraping steps**
 
--   Go to <https://drive.google.com/drive/folders/1WAn16FJ0s-6j1DiR2-LcJ9HAQoPlIBGY> to download PSD file and save it to project
-
--   Go to <https://www.dafontfree.net/freefonts-eurostile-f484.htm> to download eurostile font
-
-    -   Use photoshop to extract neccessary images.
-    -   One penguin for favicon
-    -   Three penguins with iceberg as background
-
--   Note down colors to be used.
-
--   Put   `bootstrap.min.css` into .assets/style/css
-
--   Run following commands `git init`, `echo > README.md`, `git add .`, `git commit -m "Bootstrap project"`
+- Go to <https://drive.google.com/drive/folders/1WAn16FJ0s-6j1DiR2-LcJ9HAQoPlIBGY> to download PSD file and save it to project
+- Go to <https://www.dafontfree.net/freefonts-eurostile-f484.htm> to download eurostile font
+  - Use photoshop to extract neccessary images.
+  - One penguin for favicon
+  - Three penguins with iceberg as background
+- Note down colors to be used.
+- Put   `bootstrap.min.css` into .assets/style/css
+- Run following commands `git init`, `echo > README.md`, `git add .`, `git commit -m "Bootstrap project"`
 
 **Bookmarks**
 
@@ -79,10 +74,10 @@ Add animation
 
 **Components implemented**
 
--   One wrapper container containing
-    -   Header: 404 with response text and `GO BACK` button
-    -   One image as background
-    -   One `div` to handle the animation
+- One wrapper container containing
+  - Header: 404 with response text and `GO BACK` button
+  - One image as background
+  - One `div` to handle the animation
 
 **Styling**
 
@@ -113,9 +108,9 @@ Advices on project
 
 **Details**
 
--   If you fail try again and again
--   Should not add animation to every section cuz it could be annoying
--   Mention the final project
+- If you fail try again and again
+- Should not add animation to every section cuz it could be annoying
+- Mention the final project
 
 **Bookmarks**
 

@@ -393,13 +393,9 @@ Finish lesson 43: Important Tips
 ### Thoughts
 
 -   Problem with git pushing, SSH key added but still require manually Authentication, pushing takes too much time, fail sometimes
-
 -   The course does not go into details of CSS keyframe, jQuery and jQueryUI, just mention syntaxes and some functionalities. Research on them later on.
-
 -   More stuffs to research: `flexbox`, `box-shadow`, psuedo classes CSS
-
 -   The guideline on Scroll Reveal section is outdated
-
 -   The deployment and image compressing and speed test take freaking long time
 
 ### Links to work
@@ -466,11 +462,8 @@ Gulp
 **Steps to install**
 
 1.  Create `gulp` folder and `gulpfile.js`
-
 2.  Install gulp `yarn add gulp --ignore-engines`
-
 3.  Install `require-dir`
-
 4.  Config `gulpfile.js`
 
 -   gulp/util.js: for logging
@@ -492,9 +485,7 @@ For production: Add prefix `production`
 Prepare resource:
 
 1.  Open design file with Photoshop
-
 2.  Resize PSD file if it's too large using Image/Image Size...
-
 3.  Extract color, fonts and images and note down/save them
 
 Connect resource to our project
@@ -585,7 +576,6 @@ How to use `button` and `a` tag with class `button` properly:
 Naming convention update:
 
 - `.list` should contain `.item`
-
 - `.row` should contain `column`
 
 - Avoid abbreviations to keep template semantic.
@@ -665,17 +655,11 @@ Classes:
 New rules:
 
 1. Restrict on using `.container-fluid`, using `.container` and override `@container-md` ,`@container-sm`, `@container-sm`
-
 2. Using css `class` for defining fonts
-
 3. Color and background color class pattern: `color-[color-name]`, `background-[color-name]`
-
 4. Bootstap `.row`s should be only applied to `.row > .column`s
-
 5. Font's filename: `"Font-Name.[ext]"`
-
 6. font-family define: `'Font Name'`
-
 7. Using CSS over JS creating animations
 
 Template structure:
@@ -694,9 +678,7 @@ Avoid FOUT, FOIT, FOFT
 Some popular Design Systems
 
 1. Bootstrap
-
 2. Zurb Foundation
-
 3. Semantic UI
 
 * * *
@@ -704,15 +686,10 @@ Some popular Design Systems
 States of digital websites
 
 1. Full (Interacting)
-
 2. Loading (Interacting)
-
 3. Error
-
 4. Error
-
 5. Empty
-
 6. Edge cases
 
 * * *
@@ -722,15 +699,12 @@ States of digital websites
 **With Javascript**
 
 1. Minify JS
-
 2. Obfuscate JS (encode to avoiding reversing)
 
 **With CSS**
 
 1. Minify CSS
-
 2. Critical CSS (determine some important CSSes to be applied before all CSSes are loaded to create `First meaningfull paint` )
-
 3. Remove unused CSS using 
 
 **With HTML**
