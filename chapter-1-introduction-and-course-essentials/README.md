@@ -8,71 +8,68 @@ Understand the purpose of taking this course and give out the course plan
 
 **Details:**
 - Top 5 reasons:
-
   1. Technology are introduced along with practical projects
   2. Step by step lead you from exporting elements of Photoshop Design till you Deliver a full working responsive production website to client (the combination of design and coding is very usual in big companies)
   3. Concern testing and optimization.
   4. Provide three different stunning website in one course with different ideas and carefully chosen design.
   5. Simplify the knowledges of technologies used and combine them.
-
 - The testing includes:
-- Cross browser test
-- Markup validation service
-- Speed and performance test
-
+  - Cross browser test
+  - Markup validation service
+  - Speed and performance test
 - Enhancements includes:
-- Responsive test
-- Compressing images
+  - Responsive test
+  - Compressing images
 
 - Course planning:
 
   1.Adobe Photoshop:
-  - How to use to export elements to psd files
-  - How to get the colors and fonts of your website
-  - Tools that front-end developers/designer should know
-  - How to control layers and useful shorcuts
+    - How to use to export elements to psd files
+    - How to get the colors and fonts of your website
+    - Tools that front-end developers/designer should know
+    - How to control layers and useful shorcuts
 
   2.Bootstrap 4:
-  - Introduce Bootstrap 4 grid system by examples
-  - How to use components like navbar, cards, forms, dropdown, scroll spy and more
-  - Further explanation of the most common bootstrap 4 classes
+    - Introduce Bootstrap 4 grid system by examples
+    - How to use components like navbar, cards, forms, dropdown, scroll spy and more
+    - Further explanation of the most common bootstrap 4 classes
 
   3.CSS Preprocessors SASS and LESS
-  - Full explanation about preprocessors by examples
-  - Definition and why use them ?
-  - Different between SASS and LESS
-  - How to install
-  - Features of SASS and LESS by examples
+    - Full explanation about preprocessors by examples
+    - Definition and why use them ?
+    - Different between SASS and LESS
+    - How to install
+    - Features of SASS and LESS by examples
 
   4.Trello Project Manager
-  - What is Trello
-  - Why we use it
-  - How we can use it to organize our project steps and keep the clients aware of the project progress
+    - What is Trello
+    - Why we use it
+    - How we can use it to organize our project steps and keep the clients aware of the project progress
 
   5.The Open Charity website
-  - How to prepare website files
-  - Write clean and reusable code  with comments for every section
-  - Use LESS in our style sheet
-  - Use some of the bootstrap components
-  - How to make scroll spy as well as smooth scroll
-  - Write some jQuery animations
-  - User a plugin called owl slider to make two different sliders and how to customize your slider easily
-  - Use animated.css to animate some elements
-  - Check the responsive plus optimize the website speed and performance and run three different tests on website
+    - How to prepare website files
+    - Write clean and reusable code  with comments for every section
+    - Use LESS in our style sheet
+    - Use some of the bootstrap components
+    - How to make scroll spy as well as smooth scroll
+    - Write some jQuery animations
+    - User a plugin called owl slider to make two different sliders and how to customize your slider easily
+    - Use animated.css to animate some elements
+    - Check the responsive plus optimize the website speed and performance and run three different tests on website
 
   6.The 404-penguins page
-  - Learn how to make advanced css keyframes and animations plus positioning
+    - Learn how to make advanced css keyframes and animations plus positioning
 
   7.Merkury Website
-  - Go over some of subjects that we have learned in the past projects
-  - Learn how to make advanced animations with css keyframes and jQuery
-  - Use bootstrap 4 ultility classes
-  - Use CSS before and after selectors
-  - How to combine between bootstrap 4 cards dropdown and customize them
-  - Learn how to use jQuery UI library to apply advanced events on elements
-  - Learn how to use scroll reveal plugin to animate elements while scrolling
-  - Finding solutions and workarounds and more
-  - Check responsive and optimize website performance and speed along with running test on website
+    - Go over some of subjects that we have learned in the past projects
+    - Learn how to make advanced animations with css keyframes and jQuery
+    - Use bootstrap 4 ultility classes
+    - Use CSS before and after selectors
+    - How to combine between bootstrap 4 cards dropdown and customize them
+    - Learn how to use jQuery UI library to apply advanced events on elements
+    - Learn how to use scroll reveal plugin to animate elements while scrolling
+    - Finding solutions and workarounds and more
+    - Check responsive and optimize website performance and speed along with running test on website
 
 **Bookmarks:** None
 

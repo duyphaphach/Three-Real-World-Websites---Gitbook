@@ -336,7 +336,6 @@ Finish lesson 39: Join and Footer Section
 ### Thoughts
 
 - Problem with git pushing, SSH key added but still require manually Authentication, pushing takes too much time, fail sometimes
-
 - The course does not go into details of CSS keyframe, jQuery and jQueryUI, just mention syntaxes and some functionalities. Research on them later on.
 
 ### Links to work
@@ -464,10 +463,9 @@ Gulp
 2. Install gulp `yarn add gulp --ignore-engines`
 3. Install `require-dir`
 4. Config `gulpfile.js`
-
-- gulp/util.js: for logging
-- gulp/concat.js: concat files
-- gulp/gulp-size.js: Alert file size after build
+  - gulp/util.js: for logging
+  - gulp/concat.js: concat files
+  - gulp/gulp-size.js: Alert file size after build
 
 **Note**
 
